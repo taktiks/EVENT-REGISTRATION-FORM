@@ -1,0 +1,10 @@
+.ap {
+	background-image: url(tet.jpg);
+	font-family: "Arial Black", Times, serif;
+	margin: 150px;
+	margin-top: 75px;
+	padding: 70px;
+	padding-top: 35px;
+	color: white;
+	border-style: none;
+}
